@@ -11,3 +11,8 @@
         document.body.classList.toggle("light-mode");
     })
 })();
+
+let loader = document.getElementById('PreLoader');
+    window.addEventListener("load", function () {
+        loader.style.display = "none";
+});
