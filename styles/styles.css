@@ -35,6 +35,15 @@
   --color-grey-6: #12181b;
 }
 
+#PreLoader{
+  background: url("../img/loader.gif") no-repeat center;
+  background-size: cover;
+  position: fixed;
+  min-height: 100vh;
+  width: 100vw;
+  z-index: 50;
+}
+
 body {
   background-color: var(--color-primary);
   font-family: "Poppins", sans-serif;
