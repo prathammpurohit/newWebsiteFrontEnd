@@ -36,7 +36,7 @@
 }
 
 #PreLoader{
-  background: rgb(106, 108, 247) url("../img/loader.gif") center no-repeat;
+  background:url("../img/giphy.gif") center no-repeat;
     background-size: 35%;
     height: 100vh;
     width: 100%;
