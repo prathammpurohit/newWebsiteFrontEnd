@@ -711,6 +711,10 @@ section {
   header {
     padding: 0 !important;
   }
+  
+  #PreLoader{
+    background-size: 68%;
+}
 
   .theme-btn {
     width: 50px;
